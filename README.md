@@ -6,6 +6,9 @@ easy and simple Confirm dialog box</br>
 
 ![alt tag](https://raw.github.com/wisaruthk/CommonDialog-jQuery/master/sample-img.png)
 
+
+Example
+===================
 `````html
 <html>
 	<head>
