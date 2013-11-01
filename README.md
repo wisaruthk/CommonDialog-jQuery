@@ -1,10 +1,10 @@
 CommonDialog-jQuery
 ===================
 
-easy and simple Confirm dialog box
-![alt tag](https://raw.github.com/wisaruthk/CommonDialog-jQuery/sample-img.png)
+easy and simple Confirm dialog box</br>
+![alt tag](https://raw.github.com/wisaruthk/CommonDialog-jQuery/master/sample-img.png)
 
-```<language html>
+`````html
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -45,4 +45,4 @@ easy and simple Confirm dialog box
 		<button id="show-msg-dialog">show message dialog</button>
 	</body>
 </html>
-```
+`````
