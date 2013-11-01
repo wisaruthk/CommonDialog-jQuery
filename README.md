@@ -9,6 +9,16 @@ easy and simple Confirm dialog box</br>
 
 Example
 ===================
+- must create div id 'dialog-confirm' and 'dialog-message' in body
+
+`````
+
+<div id="dialog-confirm"></div>
+
+<div id="dialog-message"></div>
+
+`````  
+
 `````html
 <html>
 	<head>
